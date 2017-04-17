@@ -1,0 +1,19 @@
+{
+  "name": "hathor-proxy",
+  "version": "0.0.1",
+  "description": "Proxy plugin for Hathor, uses H2O2 under the hood.",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "author": "Jeremy Darling <jeremy.darling@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "h2o2": "^5.4.0",
+    "hathor-utils": "0.0.2"
+  },
+  "devDependencies": {
+    "code": "^4.0.0",
+    "lab": "^12.0.0"
+  }
+}
